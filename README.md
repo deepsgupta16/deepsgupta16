@@ -7,10 +7,20 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about git and 
-- 📫 How to reach me: linkdin
-- 😄 Pronouns: deeps
-- ⚡ Fun fact: girl coder
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
-<img src="https://github-readme-stats.vercel.app/api?username=deepsgupta16&show_icons=true&?count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepsgupta16&layout=compact">
+<a href="https://www.linkedin.com/in/deeps16gupta/">
+  <img align="left" alt="Kush's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/deeps16gupta/">
+  <img align="left" alt="Kush's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/deeps16gupta">
+  <img align="left" alt="Kush's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" />
+</a> 
+<a href="https://twitter.com">
+  <img align="left" alt="Kush's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/twitter.svg" />
+</a> 
